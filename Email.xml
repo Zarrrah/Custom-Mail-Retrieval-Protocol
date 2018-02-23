@@ -1,0 +1,53 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes"?>
+<EMAILS>
+	<EMAIL>
+		<ID>1</ID>
+		<DATE>2017-01-10-13-50-43</DATE>
+		<MAILTO>mailbox1@test.com</MAILTO>
+		<MAILFROM>mailbox2@test.com</MAILFROM>
+		<SUBJECT>This is the subject</SUBJECT>
+		<KEYWORDS>"Key"</KEYWORDS>
+		<STATUS>INBOX</STATUS>
+		<MESSAGE>Hello World</MESSAGE>
+	</EMAIL>
+	<EMAIL>
+		<ID>2</ID>
+		<DATE>2016-01-10-13-50-43</DATE>
+		<MAILTO>mailbox3@test.com</MAILTO>
+		<MAILFROM>mailbox4@test.com</MAILFROM>
+		<SUBJECT>This is the another subject</SUBJECT>
+		<KEYWORDS>"Word", "Test"</KEYWORDS>
+		<STATUS>INBOX</STATUS>
+		<MESSAGE>Goodbye World</MESSAGE>
+	</EMAIL>
+	<EMAIL>
+		<ID>3</ID>
+		<DATE>2018-01-11-14-34-43</DATE>
+		<MAILTO>Jeff@test.com</MAILTO>
+		<MAILFROM>mailbox4@test.com</MAILFROM>
+		<SUBJECT>Delivery</SUBJECT>
+		<KEYWORDS>"Word", "Test"</KEYWORDS>
+		<STATUS>INBOX</STATUS>
+		<MESSAGE>Your delivery has arrived</MESSAGE>
+	</EMAIL>
+	<EMAIL>
+		<ID>4</ID>
+		<DATE>2018-01-11-14-34-43</DATE>
+		<MAILTO>Bob@test.com</MAILTO>
+		<MAILFROM>awdwa@test.com</MAILFROM>
+		<SUBJECT>Delivery</SUBJECT>
+		<KEYWORDS></KEYWORDS>
+		<STATUS>DELETED</STATUS>
+		<MESSAGE>Your delivery has arrived</MESSAGE>
+	</EMAIL>
+	<EMAIL>
+		<ID>5</ID>
+		<DATE>2018-01-11-14-34-43</DATE>
+		<MAILTO>Bob@test.com</MAILTO>
+		<MAILFROM>awdwa@test.com</MAILFROM>
+		<SUBJECT>Delivery</SUBJECT>
+		<KEYWORDS></KEYWORDS>
+		<STATUS>ARCHIVED</STATUS>
+		<MESSAGE>Your delivery has arrived</MESSAGE>
+	</EMAIL>
+</EMAILS>
